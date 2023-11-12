@@ -21,6 +21,8 @@ building a new router from scratch
 ## 1GbE NIC
 
 ## Wifi AP Card
+https://forum.openwrt.org/t/solved-wi-fi-cards-and-the-ap-mode/151462
+
 
 ## Motherboard
 
