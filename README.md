@@ -9,13 +9,6 @@ building a new router from scratch
   - 1 port connect to desktop with SFP+ DAC
   - 1 port connect to NUC - needs thunderbolt adapter or use 1Gb until decommissioned
 
-### Copper solution
-- requires extra SFP+ card for the WAN module, but no adapters on the old devices
-- higher power consumption by about 20-25W
-- 569 CHF [Intel X710T4L](https://www.digitec.ch/it/s1/product/intel-adattatore-di-rete-ethernet-x710-t4l-pci-express-30-x8-scheda-di-rete-15459932)
-- 300 CHF [2 ports](https://www.digitec.ch/it/s1/product/intel-adattatore-di-rete-ethernet-x710-t2l-pci-express-30-x8-scheda-di-rete-14053242)
-- 230 CHF [Intel X550T2](https://www.digitec.ch/it/s1/product/intel-server-ethernet-x550t2-pci-express-30-scheda-di-rete-10144274?ip=X550T2)
-
 ## Transceiver
 
 ## 1GbE NIC
@@ -23,10 +16,13 @@ building a new router from scratch
 ## Wifi AP Card
 https://forum.openwrt.org/t/solved-wi-fi-cards-and-the-ap-mode/151462
 
-
 ## Motherboard
 
+250 CHF
+Gigabyte Z790 AORUS ELITE AX
+https://www.digitec.ch/it/s1/product/gigabyte-z790-aorus-elite-ax-lga-1700-intel-z790-atx-scheda-madre-22542267
+
 ## CPU
-check Meteor Lake release Dec 14th 2023
+400 CHF - Intel i7-14700 Box - https://www.digitec.ch/it/s1/product/intel-i7-14700-box-lga-1700-280-ghz-20-core-processore-41458763?supplier=406802
 
 ## Cables
