@@ -19,6 +19,7 @@ https://www.digitec.ch/it/s1/product/gigabyte-z790-aorus-elite-ax-lga-1700-intel
 
 ## CPU
 420 CHF - Intel i7-14700K - https://www.digitec.ch/it/s1/product/intel-core-i7-14700k-lga-1700-340-ghz-20-core-processore-38738119
+thermalright retention bracket - https://www.digitec.ch/it/s1/product/thermalright-accessori-thermalright-kit-tipo-a2-socket-1700-accessori-raffreddamento-ad-acqua-cpu-33494721
 
 ## 1GbE NIC
 Might not be needed if the card has 2 1GbE embedded ports
