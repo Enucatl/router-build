@@ -8,6 +8,9 @@ building a new router and VM host, including docker services, from scratch to su
 # Alternative 2 (Intel Core Ultra)
 - Motherboard [W880D4U-2L2Q](https://www.asrockrack.com/general/productdetail.asp?Model=W880D4U-2L2Q#Specifications)
 - LGA 1851 CPU e.g. [Intel Core Ultra 7 265K](https://www.digitec.ch/it/s1/product/intel-core-ultra-7-265k-lga-1851-540-ghz-20-core-processore-49734793)
+- if motherboard not available, check the [Mellanox ConnectX 6 Lx NIC](https://www.digitec.ch/it/s1/product/mellanox-connectx-6-lx-mcx631102an-adat-pci-express-40-x-8-scheda-di-rete-24145839)
 
 # WiFi
 - Ubiquity Access Point + PoE power injector
+
+# OS
