@@ -5,7 +5,6 @@ building a new router and VM host, including docker services, from scratch to su
 EPYC 4545P (65W)
 
 # Motherboard
-- [B650D4U3-2L2Q/BCM](https://www.asrockrack.com/general/productdetail.asp?Model=B650D4U3-2L2Q/BCM#Specifications)
 - [EPYC4000D4U](https://www.asrockrack.com/general/productdetail.asp?Model=EPYC4000D4U#Specifications)
 
 # Network card
