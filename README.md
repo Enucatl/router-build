@@ -9,3 +9,6 @@ EPYC 4545P (65W)
 
 # Network card
 - [NVIDIA ConnectX-6 Lx PCIe](900-9X662-0083-ST0) (MCX631102AC-ADAT, 900-9X662-0083-ST0)
+
+# PSU
+- [SeaSonic PRIME FANLESS TX 600W](https://seasonic.com/prime-fanless-tx/)
