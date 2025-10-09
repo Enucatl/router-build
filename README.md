@@ -21,7 +21,7 @@ building a new router and VM host, including docker services, from scratch to su
 - [Fractal North](https://www.digitec.ch/it/s1/product/fractal-nord-atx-matx-mini-itx-case-pc-23351237?shid=2125429)
 
 # Memory
-- 
+- [2x32GB 5600 MHz, DDR5 RAM, U-DIMM](https://www.digitec.ch/en/s1/product/crucial-mtc20c2085s1ec56br-1-x-32gb-5600-mhz-ddr5-ram-u-dimm-ram-46646061)
 
 # Storage
 - 
