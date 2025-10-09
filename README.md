@@ -24,4 +24,5 @@ building a new router and VM host, including docker services, from scratch to su
 - [2x32GB 5600 MHz, DDR5 RAM, U-DIMM](https://www.digitec.ch/en/s1/product/crucial-mtc20c2085s1ec56br-1-x-32gb-5600-mhz-ddr5-ram-u-dimm-ram-46646061)
 
 # Storage
-- 
+- [2x Crucial T705 with Heatsink
+2000 GB, M.2 2280](https://www.digitec.ch/en/s1/product/crucial-t705-with-heatsink-2000-gb-m2-2280-ssd-42891465?utm_campaign=preisvergleich&utm_source=toppreise&utm_medium=cpc) RAID 1
