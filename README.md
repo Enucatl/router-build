@@ -8,7 +8,7 @@ building a new router and VM host, including docker services, from scratch to su
 - [EPYC4000D4U](https://www.asrockrack.com/general/productdetail.asp?Model=EPYC4000D4U#Specifications)
 
 # Network card
-- [NVIDIA ConnectX-6 Lx PCIe](900-9X662-0083-ST0) (MCX631102AC-ADAT, 900-9X662-0083-ST0)
+- [NVIDIA ConnectX-6 Dx PCIe](https://docs.nvidia.com/networking/display/connectx6dxen/specifications#src-2487214386_safe-id-U3BlY2lmaWNhdGlvbnMtTUNYNjIxMTAyQUMtQURBVC9NQ1g2MjExMDJBTi1BREFUU3BlY2lmaWNhdGlvbnM) (MCX621102AC-ADAT)
 
 # Power supply unit
 - [be quiet! Pure Power 13 M 550 W](https://www.digitec.ch/it/s1/product/be-quiet-pure-power-13-m-550-w-alimentatore-pc-58966180?utm_campaign=preisvergleich&utm_source=toppreise&utm_medium=cpc)
