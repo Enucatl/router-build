@@ -6,7 +6,7 @@
 https://bitgrounds.tech/posts/proxmox-zfs-encryption/
 
 # Remove enterprise features
-https://raw.githubusercontent.com/tteck/Proxmox/main/misc/post-pve-install.sh
+[post-pve-install.sh](https://github.com/community-scripts/ProxmoxVE/blob/main/tools/pve/post-pve-install.sh)
 
 # apt update & upgrade
 
